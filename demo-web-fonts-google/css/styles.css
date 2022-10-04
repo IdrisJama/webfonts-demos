@@ -1,0 +1,12 @@
+
+
+
+h2 {
+    font-family: 'Abyssinica SIL', serif;
+}
+p {
+    font-family: 'Open Sans', sans-serif;
+}
+p:first-of-type {
+    font-weight: 800;
+}
